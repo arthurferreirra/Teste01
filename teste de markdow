@@ -1,0 +1,39 @@
+# Para criar tabelas em markdown
+
+## Exemplo 1
+
+para criar tabelo voce ira desenhala com o pipe (|) ou em liguem C
+
+|Nome | idade |  
+|-----| ------|  
+|Arthur| 18 anos|
+|Ana| 24 anos|
+
+## exemplo 2  
+para alinhar o texto basta colocar 2 ponto pra direção que deseja
+
+| nome | idade | Profissão |  
+|:------|:-------:|-----------:|  
+|Arhur | 18 | estudante|  
+|Vicotira| 29 | Engenheira chefe|  
+|linguini| 19 | cozinheiro
+
+# Bloco de codigo
+
+Para fazer um Bloco de codigo que vc usa para compartilhar o seu codigo voce da 2 tab no seu codigo ou coloque 3 crases (```) no inicio e no final do codigo
+
+```html
+=teste de html
+<head>
+<title>Isso e um bloco de codigo</title>  
+<style>
+#logo
+{
+    text-alling: center;
+    padding: 50px;
+    margim-image: 0px
+
+}
+</style>
+</head>
+```
